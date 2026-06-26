@@ -17,7 +17,7 @@
   <br />
 
   <p>
-    <strong>&#128075; I'm currently focused on Go, back-end systems, and databases.</strong>
+    <strong>&#128075; I'm currently focused on Golang and Agent.</strong>
   </p>
 
   <p>
