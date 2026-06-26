@@ -17,6 +17,7 @@
   <br />
 
   <p>
+    <strong>&#10024; More about me:</strong>
     <a href="https://hddcc.github.io/AboutMe/"><strong>https://hddcc.github.io/AboutMe/</strong></a>
   </p>
 
