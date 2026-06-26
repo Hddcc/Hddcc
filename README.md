@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi%2C+I%27m+Hddcc.+Go+Back-End+Developer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi%2C+I%27m+Hddcc.+Welcome+to+my+Github."
     alt="Hi, I'm Hddcc. Welcome to my Github"
   />
 
@@ -9,8 +9,8 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I%27m+currently+focused+on+Golang+and+Agent."
-    alt="I'm currently focused on Golang and Agent."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%91%8B+I%27m+currently+focused+on+Golang+and+Agent."
+    alt="Waving hand. I'm currently focused on Golang and Agent."
   />
 
   <br />
